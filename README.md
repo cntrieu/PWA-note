@@ -28,6 +28,10 @@ To access the editor, please visit:
 
 https://peaceful-oasis-23616.herokuapp.com/
 
+Screenshot:
+
+![heroku app screenshot](https://github.com/cntrieu/portfolio/assets/89812084/f0c4dd1a-2706-4383-8f7b-f852653db54e)
+
 ## Installation
 
 After visiting the link in heroku, simply click install! and the app will be available as an app.
